@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aeinstein",
+      "name": "Albert",
+      "surname": "Einstein"
+    },
+    {
+      "id": 2,
+      "username": "bgates",
+      "name": "Bill",
+      "surname": "Gates"
+    },
+    {
+      "id": 3,
+      "username": "anobel",
+      "name": "Alfred",
+      "surname": "Nobel"
+    }
+  ]
+}
