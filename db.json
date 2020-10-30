@@ -1,7 +1,7 @@
 [{"id":1,"first_name":"Gary","last_name":"Ortiz","country":"Indonesia","vip":false},
 {"id":2,"first_name":"Albert","last_name":"Williamson","country":"China","vip":true},
 {"id":3,"first_name":"Mildred","last_name":"Fuller","country":"Peru","vip":true},
-{"id":4,"first_name":"Russell","last_name":"Robinson","country":"Belarus",,"vip":false},
+{"id":4,"first_name":"Russell","last_name":"Robinson","country":"Belarus","vip":false},
 {"id":5,"first_name":"Laura","last_name":"Harper","country":"Philippines","vip":false},
 {"id":6,"first_name":"Larry","last_name":"Sanders","country":"China","vip":false},
 {"id":7,"first_name":"Michael","last_name":"Rice","country":"Philippines","vip":true},
