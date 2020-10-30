@@ -1,5 +1,22 @@
-[{"id":1,"first_name":"Gary","last_name":"Ortiz","country":"Indonesia"},
-{"id":2,"first_name":"Albert","last_name":"Williamson","country":"China"},
-{"id":3,"first_name":"Mildred","last_name":"Fuller","country":"Peru"},
-{"id":4,"first_name":"Russell","last_name":"Robinson","country":"Belarus"},
-{"id":5,"first_name":"Laura","last_name":"Harper","country":"Philippines"}]
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aeinstein",
+      "name": "Albert",
+      "surname": "Einstein"
+    },
+    {
+      "id": 2,
+      "username": "bgates",
+      "name": "Bill",
+      "surname": "Gates"
+    },
+    {
+      "id": 3,
+      "username": "anobel",
+      "name": "Alfred",
+      "surname": "Nobel"
+    }
+  ]
+}
